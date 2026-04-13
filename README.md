@@ -1,6 +1,6 @@
-# Thift Website
+# Thrift Website
 
-This project is a fully static public website for **Thift**, a mobile marketplace focused on preloved fashion and thrifted clothing.
+This project is a fully static public website for **Thrift**, a mobile marketplace focused on preloved fashion and thrifted clothing.
 
 The site is intended to support:
 
@@ -15,18 +15,18 @@ There is no framework or build step. The site uses plain HTML, CSS, and a very s
 
 ```text
 thrift-app-site/
-├── 404.html
-├── community-guidelines.html
-├── contact.html
-├── delete-account.html
-├── index.html
-├── privacy.html
-├── terms.html
-├── style.css
-├── script.js
-├── vercel.json
-├── .gitignore
-└── README.md
+|-- 404.html
+|-- community-guidelines.html
+|-- contact.html
+|-- delete-account.html
+|-- index.html
+|-- privacy.html
+|-- terms.html
+|-- style.css
+|-- script.js
+|-- vercel.json
+|-- .gitignore
+`-- README.md
 ```
 
 ## Pages included
@@ -70,7 +70,7 @@ No environment variables are required for this website.
 If you need to change the public support contact, search the project for:
 
 ```text
-support@thiftapp.com
+support@thriftapp.com
 ```
 
 If you need to revise legal wording, update these files:
